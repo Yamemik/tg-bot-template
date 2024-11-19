@@ -1,10 +1,10 @@
-﻿# vanga (tg bot)
+﻿# bot (tg bot)
 
-![Static Badge](https://img.shields.io/badge/Yamemik-vanga)
-![GitHub top language](https://img.shields.io/github/languages/top/Yamemik/vanga-bot)
-![GitHub](https://img.shields.io/github/license/Yamemik/vanga-bot)
-![GitHub Repo stars](https://img.shields.io/github/stars/Yamemik/vanga-bot)
-![GitHub issues](https://img.shields.io/github/issues/Yamemik/vanga-bot)
+![Static Badge](https://img.shields.io/badge/Yamemik-tgtemplate)
+![GitHub top language](https://img.shields.io/github/languages/top/Yamemik/tg-bot-template)
+![GitHub](https://img.shields.io/github/license/Yamemik/tg-bot-template)
+![GitHub Repo stars](https://img.shields.io/github/stars/Yamemik/tg-bot-template)
+![GitHub issues](https://img.shields.io/github/issues/Yamemik/tg-bot-template)
 
 
 ## Общее описание
