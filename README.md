@@ -22,16 +22,23 @@ _____
 ### ER-Diagrams
 ```mermaid
 erDiagram
-    USER }o--o{ COURSE : wrights    
+    USER |o--o{ PAYMENT : creates
+    USER |o--o{ REQUEST : creates
     USER {
-        int id PK      
-        string email "*"
-        string hashed_password "*"
-        bool is_active
-        bool is_superuser
-        bool is_verified        
+        int telegram_id PK      
+        string username "*"
+        string first_name "*"      
     }
-
+    PAYMENT {
+      int id PK
+      float summary 
+      int user_id FK
+    }
+    REQUEST {
+      int id PK
+      bool is_access 
+      int user_id FK
+    }
 ```
 
 
